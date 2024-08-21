@@ -16,7 +16,7 @@ export default {
         sans: ["Hanken Grotesk", 'sans-serif']
       },
       colors: {
-        customblack: "#0d0d0d"
+        customblack: "black"
       },
       container: {
         center: true,
